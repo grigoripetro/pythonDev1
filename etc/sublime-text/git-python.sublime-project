@@ -2,7 +2,7 @@
 	"folders":
 	[
 		// GIT-PYTHON
-		/////////////
+		/////////////////
 		{
 			"follow_symlinks": true,
 			"path": "../..",
